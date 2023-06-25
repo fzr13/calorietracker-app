@@ -2,7 +2,7 @@
 //  MasterViewController.swift
 //  FinalAssignment2
 //
-//  Created by Fatima R on 6/30/22.
+//  Created on 6/30/22.
 //
 
 import UIKit
