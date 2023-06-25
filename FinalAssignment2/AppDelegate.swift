@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  FinalAssignment2
 //
-//  Created by Fatima R on 6/30/22.
+//  Created by on 6/30/22.
 //
 
 import UIKit
